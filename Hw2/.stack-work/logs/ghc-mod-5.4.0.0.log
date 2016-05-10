@@ -1,0 +1,9 @@
+[1 of 5] Compiling NotCPP.Utils     ( NotCPP/Utils.hs, /tmp/stack24646/ghc-mod-5.4.0.0/.stack-work/dist/x86_64-linux/Cabal-1.22.4.0/setup/NotCPP/Utils.o )
+[2 of 5] Compiling NotCPP.LookupValueName ( NotCPP/LookupValueName.hs, /tmp/stack24646/ghc-mod-5.4.0.0/.stack-work/dist/x86_64-linux/Cabal-1.22.4.0/setup/NotCPP/LookupValueName.o )
+[3 of 5] Compiling NotCPP.Declarations ( NotCPP/Declarations.hs, /tmp/stack24646/ghc-mod-5.4.0.0/.stack-work/dist/x86_64-linux/Cabal-1.22.4.0/setup/NotCPP/Declarations.o )
+[4 of 5] Compiling SetupCompat      ( SetupCompat.hs, /tmp/stack24646/ghc-mod-5.4.0.0/.stack-work/dist/x86_64-linux/Cabal-1.22.4.0/setup/SetupCompat.o )
+[5 of 5] Compiling Main             ( /tmp/stack24646/ghc-mod-5.4.0.0/Setup.hs, /tmp/stack24646/ghc-mod-5.4.0.0/.stack-work/dist/x86_64-linux/Cabal-1.22.4.0/setup/Main.o )
+Linking /tmp/stack24646/ghc-mod-5.4.0.0/.stack-work/dist/x86_64-linux/Cabal-1.22.4.0/setup/setup ...
+Configuring ghc-mod-5.4.0.0...
+setup: At least the following dependencies are missing:
+cabal-helper <0.7 && >=0.6.1.0 && ==0.6.0.0

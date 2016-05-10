@@ -1,0 +1,3 @@
+(Op Plus (Assign "X" (Val (IntVal 2))) (Assign "Y" (Val (IntVal 2))))
+
+run (Assign "X"((Op Plus (Val (IntVal 2)) (Val (IntVal 5)))))
